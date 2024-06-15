@@ -1,0 +1,5 @@
+봇 이름  : Gemini
+설명    : 디스코드 채팅으로 Gemini 모델을 만나볼 수 있어요!
+기능    
+    -textai 명령어로 ai와 대화 가능 (model, temperature 변경 가능)
+    -imageai 명령어로 image 생성 가능
