@@ -1,0 +1,16 @@
+해당 디스코드 봇은 영리/악용 목적으로 사용자의 프로필 정보( user_id, user_name 등) 를 수집하지 않습니다.
+프로필 정보 수집하는 경우:
+          -사용자가 모델을 설정한 것을 user_id : (설정한 모델) 형식으로 저장하기 위해 user_id를 수집
+           이 경우 user_id 이 별도의 json 파일에 저장될 수 있습니다.
+
+          -사용자가 모델과 나눈 대화를 user_id : (대화 내용) 형식으로 저장하기 위해 user_id 수집
+           이 경우 user_id 는 별도의 파일/데이터베이스 에 저장되지 않습니다.
+
+
+This Discord bot does not collect user profile information (user_id, user_name, etc.) for profit or malicious purposes.
+To collect profile information:
+          -Collects user_id to save the model set by the user in the form user_id : (set model)
+           In this case, user_id may be stored in a separate json file.
+
+          -Collect user_id to save the conversation that the user had with the model in the form user_id : (conversation)
+           In this case, user_id is not stored in a separate file/database.
